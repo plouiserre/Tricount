@@ -11,9 +11,13 @@
 	<groupId>com.plouiserre</groupId>
 	<artifactId>tricount</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tricount</name>
+    <name>tricount</name>
 	<description>Tricount Like project</description>
-	<properties>
+    <modules>
+        <module>Domain</module>
+    </modules>
+	<packaging>pom</packaging>
+    <properties>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
