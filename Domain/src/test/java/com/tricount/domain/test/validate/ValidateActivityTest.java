@@ -1,8 +1,8 @@
 package com.tricount.domain.test.validate;
 
-import com.tricount.domain.entities.Activity;
 import com.tricount.domain.entities.Participant;
 import com.tricount.domain.validate.ValidateActivities;
+import com.tricount.domain.entities.Activity;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

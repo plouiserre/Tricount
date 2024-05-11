@@ -5,7 +5,6 @@ import com.tricount.domain.entities.Travel;
 import com.tricount.domain.validate.ValidateTravel;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.mockito.Mock;
 import org.mockito.Mockito;
 
 public class AddActivitiesTest {

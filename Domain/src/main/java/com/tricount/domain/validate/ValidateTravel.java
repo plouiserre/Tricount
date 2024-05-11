@@ -1,9 +1,6 @@
 package com.tricount.domain.validate;
 
-import com.tricount.domain.entities.Participant;
 import com.tricount.domain.entities.Travel;
-
-import java.util.List;
 
 public class ValidateTravel implements IValidateTravel{
 
